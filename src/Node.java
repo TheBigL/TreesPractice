@@ -71,4 +71,50 @@ public class Node
             }
         }
     }
+
+
+    public Node remove(Node root, int value)
+    {
+        if(root == null)
+        {
+            return root;
+        }
+
+        if(value < root.data)
+        {
+            root.left = remove(root.left, value);
+        }
+
+        else if(value > root.data)
+        {
+            root.right = remove(root.right, value);
+        }
+
+        else
+        {
+            if (root.left == null)
+                return root.right;
+            else if (root.right == null)
+                return root.left;
+
+            root.data = minValue(root.right);
+
+
+            root.right = remove(root.right, root.data);
+
+        }
+
+        return root;
+
+    }
+
+    private int minValue(Node node) {
+        int minvalue = node.data;
+        while (node.left != null)
+        {
+            minvalue = node.left.data;
+            node = node.left;
+        }
+        return minvalue;
+    }
 }
