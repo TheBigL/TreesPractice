@@ -54,6 +54,28 @@ public class Main
             else
                 return 0;
         }
+
+        public void preorder()
+        {
+            if (root != null) {
+                System.out.println("Preorder: ");
+                root.preorder();
+            }
+        }
+
+        public void postorder() {
+            if (root != null) {
+                System.out.println("Postorder:");
+                root.postorder();
+            }
+        }
+
+        public void inorder() {
+            if (root != null) {
+                System.out.println("Inorder:");
+                root.inorder();
+            }
+        }
     }
 
     private class Node
@@ -168,6 +190,8 @@ public class Main
                     this.right.inorder();
             }
         }
+
+
 
 
 
