@@ -30,6 +30,30 @@ public class Main
             }
             else {return root.find(val);}
         }
+
+        public int getHeight()
+        {
+            if(root != null)
+            {
+                return root.getHeight();
+            }
+
+            else
+            {
+                return 0;
+            }
+        }
+
+        public  int getSize()
+        {
+            if(root != null)
+            {
+                return root.getSize();
+            }
+
+            else
+                return 0;
+        }
     }
 
     private class Node
@@ -87,6 +111,65 @@ public class Main
             }
             return found;
         }
+
+        private int getHeight() {
+            int leftHeight = 0, rightHeight = 0;
+
+            if (this.left != null)
+                leftHeight = this.left.getHeight();
+
+            if (this.right != null)
+                rightHeight = this.right.getHeight();
+
+            return 1 + Math.max(leftHeight, rightHeight);
+        }
+
+        private int getSize() {
+            int leftSize = 0, rightSize = 0;
+
+            if (this.left != null)
+                leftSize = this.left.getSize();
+
+            if (this.right != null)
+                rightSize = this.right.getSize();
+
+            return 1 + leftSize + rightSize;
+        }
+
+        private void preorder()
+        {
+            if (this != null) {
+                System.out.println(this.data);
+                if (this.left != null)
+                    this.left.preorder();
+                if (this.right != null)
+                    this.right.preorder();
+            }
+        }
+
+        private void postorder()
+        {
+            if (this != null) {
+                System.out.println(this.data);
+                if (this.left != null)
+                    this.left.preorder();
+                if (this.right != null)
+                    this.right.preorder();
+            }
+        }
+
+        private void inorder()
+        {
+            if (this != null) {
+                if (this.left != null)
+                    this.left.inorder();
+                System.out.println(this.data);
+                if (this.right != null)
+                    this.right.inorder();
+            }
+        }
+
+
 
 
 
