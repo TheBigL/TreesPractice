@@ -7,6 +7,31 @@ public class Main
 
     }
 
+    public class Tree
+    {
+        Node root;
+
+        public boolean insert(int val)
+        {
+            if(root == null)
+            {
+                root = new Node(val);
+                return true;
+            }
+
+            else return root.insert(val);
+        }
+
+        public boolean find(int val)
+        {
+            if(root == null)
+            {
+                return false;
+            }
+            else {return root.find(val);}
+        }
+    }
+
     private class Node
     {
         private Node left;
@@ -62,6 +87,8 @@ public class Main
             }
             return found;
         }
+
+
 
 
     }
