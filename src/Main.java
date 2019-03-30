@@ -1,15 +1,18 @@
 public class Main
 {
-    public static void main(String[] args)
-    {
 
-
-
-    }
 
     public class Tree
     {
         Node root;
+
+        public static void main(String[] args)
+        {
+            
+
+
+
+        }
 
         public boolean insert(int val)
         {
