@@ -8,7 +8,7 @@ public class Node
 
     public Node(int data)
     {
-        data = this.data;
+        this.data = data;
     }
 
     public void insert(int value)
@@ -30,7 +30,7 @@ public class Node
         {
             if(right == null)
             {
-                left = new Node(value);
+                right = new Node(value);
             }
 
             else
