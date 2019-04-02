@@ -1,8 +1,10 @@
+package linkedList;
+
 public class Node
 {
-    private Node left;
-    private Node right;
-    private int data;
+    public Node left;
+    public Node right;
+    public int data;
 
     public Node(int data)
     {
