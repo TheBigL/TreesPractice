@@ -26,11 +26,12 @@ class Main
 
         BFS bfs = new BFS();
         DFS dfs = new DFS();
+        node.getHeight(node);
 
         dfs.traversal(node);
         bfs.traversal(node);
 
-        node.printInOrder();
+        node.printInOrder(node);
         node.contains(5);
 
 

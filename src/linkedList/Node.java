@@ -1,5 +1,7 @@
 package linkedList;
 
+import java.util.LinkedList;
+
 public class Node
 {
     public Node left;
@@ -73,18 +75,64 @@ public class Node
 
     }
 
-    public void printInOrder()
+    public int getHeight(Node node)
     {
-        if(left != null)
+        if(node == null)
         {
-            left.printInOrder();
+            return 0;
         }
-        System.out.println(data);
-        if(right != null)
+
+        else
         {
-            right.printInOrder();
+            int lHeight = getHeight(node.left);
+            int rHeight = getHeight(node.right);
+
+            if(lHeight > rHeight)
+            {
+                System.out.println("The Tree's height is: " + (lHeight + 1));
+                return lHeight + 1;
+            }
+
+            else
+            {
+                System.out.println("The Tree's height is: " + (rHeight + 1));
+                return rHeight + 1;
+            }
         }
     }
+
+    public void printInOrder(Node node)
+    {
+
+        if(node == null)
+        {
+            return;
+        }
+
+        LinkedList<Node> q = new LinkedList();
+
+        q.add(node);
+
+        while(!q.isEmpty())
+        {
+            Node currentNode = q.poll();
+            System.out.print(currentNode.data + " ");
+            if(currentNode.left != null)
+            {
+                q.add(currentNode.left);
+            }
+
+
+            if(currentNode.right != null)
+            {
+                q.add(currentNode.right);
+            }
+
+        }
+
+    }
+
+
 
 
 }
