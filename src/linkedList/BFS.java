@@ -8,7 +8,7 @@ public class BFS
 
     static void traversal(Node node)
     {
-        Queue<Node> q = new LinkedList<Node>();
+        Queue<Node> q = new LinkedList<>();
 
         q.add(node);
 
@@ -16,7 +16,7 @@ public class BFS
         {
             node = q.remove();
 
-            System.out.println(node.);
+            System.out.println(node.data + " ");
         }
 
     }
