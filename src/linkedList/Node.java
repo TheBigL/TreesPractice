@@ -45,19 +45,26 @@ public class Node
     {
         if (value == data)
         {
+            System.out.println("Node has been found!");
             return true;
+
         }
         else if (value <= data)
         {
-            if (left == null) {
+            if (left == null)
+            {
+                System.out.println("Failed to find a Node with the value of " + value + "!");
                 return false;
-            } else {
+            }
+            else {
                 return left.contains(value);
             }
         }
         else
             {
-            if (right == null) {
+            if (right == null)
+            {
+                System.out.println("Failed to find a Node with the value of " + value + "!");
                 return false;
             } else {
                 return right.contains(value);

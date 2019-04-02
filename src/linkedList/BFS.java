@@ -8,6 +8,7 @@ public class BFS
 
     public void traversal(Node node)
     {
+        System.out.println("Depth First Search: \n");
         Queue<Node> q = new LinkedList<>();
 
         q.add(node);
@@ -16,7 +17,7 @@ public class BFS
         {
             node = q.remove();
 
-            System.out.println(node.data + " ");
+            System.out.println(node.data + " \n");
 
             if(node.left != null)
             {
