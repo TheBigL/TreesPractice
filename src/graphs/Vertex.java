@@ -2,7 +2,7 @@ package graphs;
 
 import java.util.List;
 
-public class GraphNode
+public class Vertex
 {
     public String name;
     public List<Edge> connections;

@@ -2,7 +2,7 @@ package graphs;
 
 public class Edge
 {
-    public GraphNode start;
-    public GraphNode end;
+    public Vertex start;
+    public Vertex end;
     public double weight;
 }
