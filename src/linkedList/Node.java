@@ -101,7 +101,7 @@ public class Node
         }
     }
 
-    public void printInOrder(Node node)
+    public void printInOrderIterative(Node node)
     {
 
         if(node == null)
@@ -130,6 +130,32 @@ public class Node
 
         }
 
+    }
+
+
+    public void printInOrderRecursive(Node node)
+    {
+        if(node == null)
+        {
+            return;
+        }
+
+        LinkedList<Node> q = new LinkedList<Node>();
+
+        q.add(node);
+
+        while(!q.isEmpty())
+        {
+            if(node.left != null)
+            {
+                q.add(node.left);
+            }
+
+            if(node.right != null)
+            {
+                q.add(node.right);
+            }
+        }
     }
 
 

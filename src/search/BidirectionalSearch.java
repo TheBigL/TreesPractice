@@ -65,4 +65,14 @@ public class BidirectionalSearch
         return false;
 
     }
+
+    public static void main(String[] args)
+    {
+        Node nodeOne = new Node(1);
+        Node nodeTwo = new Node(2);
+        Node nodeThree = new Node(3);
+        Node nodeFour = new Node(4);
+        Node nodeTen = new Node(10);
+
+    }
 }
