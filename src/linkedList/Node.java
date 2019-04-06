@@ -133,29 +133,25 @@ public class Node
     }
 
 
-    public void printInOrderRecursive(Node node)
-    {
-        if(node == null)
-        {
-            return;
+    public LinkedList<Node> printInOrderRecursive(Node node, LinkedList<Node> q) {
+        if (node == null) {
+            return q;
         }
-
-        LinkedList<Node> q = new LinkedList<Node>();
 
         q.add(node);
 
-        while(!q.isEmpty())
-        {
-            if(node.left != null)
-            {
+        while (!q.isEmpty()) {
+            if (node.left != null) {
                 q.add(node.left);
             }
 
-            if(node.right != null)
-            {
+            if (node.right != null) {
                 q.add(node.right);
             }
         }
+
+
+        return q;
     }
 
 
