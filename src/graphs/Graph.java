@@ -1,6 +1,6 @@
 package graphs;
 
-import java.util.LinkedList;
+import java.util.*;
 
 public class Graph
 {
@@ -24,4 +24,56 @@ public class Graph
     {
         adj[v].add(w); // Add w to v’s list.
     }
+
+    void BFS(int v)
+    {
+        boolean[] visited = new boolean[v];
+
+
+
+        LinkedList<Integer> queue = new LinkedList<>();
+
+        queue.add(v);
+
+        while(queue.size() != 0)
+        {
+            v = queue.poll();
+            System.out.print(v+" ");
+            Iterator<Integer>  itr = adj[v].listIterator();
+            while(itr.hasNext())
+            {
+                int n = itr.next();
+                if (!visited[n])
+                {
+                    visited[n] = true;
+                    queue.add(n);
+                }
+            }
+        }
+    }
+
+    void DFS(int v)
+    {
+        boolean[] visited = new boolean[v];
+
+    }
+
+    void DFSUtil(boolean[] visited, int v)
+    {
+        visited[v] = true;
+        System.out.print(v + " ");
+
+        Iterator<Integer> itr = adj[v].listIterator();
+
+        while(itr.hasNext())
+        {
+            int n = itr.next();
+            if(!visited[n])
+            {
+                DFSUtil(visited, n);
+            }
+        }
+    }
+
+
 }
