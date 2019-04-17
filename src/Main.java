@@ -2,6 +2,8 @@ import linkedList.BFS;
 import linkedList.DFS;
 import linkedList.Node;
 
+import java.util.List;
+
 class Main
 {
     public static void main(String[] args)
@@ -23,7 +25,6 @@ class Main
 
 
 
-
         BFS bfs = new BFS();
         DFS dfs = new DFS();
         node.getHeight(node);
@@ -31,8 +32,10 @@ class Main
         dfs.traversal(node);
         bfs.traversal(node);
 
-        node.printInOrder(node);
+        node.printInOrderIterative(node);
         node.contains(5);
+
+
 
 
     }
