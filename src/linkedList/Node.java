@@ -1,6 +1,8 @@
 package linkedList;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 
 public class Node
 {
@@ -152,6 +154,57 @@ public class Node
 
 
         return q;
+    }
+
+    public int getCommonAncestor(Node root, int n1, int n2)
+    {
+        List<Integer> path1 = new ArrayList<>();
+        List<Integer> path2 = new ArrayList<>();
+        if(!covers(root, n1, path1) || !covers(root, n2, path2))
+        {
+            return -1;
+
+        }
+
+        int i;
+
+        for(i = 0; i < path1.size() && i < path2.size(); i++)
+        {
+            if (!path1.get(i).equals(path2.get(i)))
+                break;
+        }
+
+        return path1.get(i-1);
+
+
+    }
+
+    public boolean covers(Node root, int n, List<Integer> path)
+    {
+        if(root == null)
+        {
+            return false;
+        }
+
+        path.add(root.data);
+
+        if(root.data == n)
+        {
+            return true;
+        }
+
+        if (root.left != null && covers(root.left, n, path))
+        {
+            return true;
+        }
+
+        if (root.right != null && covers(root.right, n, path)) {
+            return true;
+        }
+
+        path.remove(path.size()-1);
+
+        return false;
     }
 
 
