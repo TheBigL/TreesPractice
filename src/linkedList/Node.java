@@ -103,6 +103,28 @@ public class Node
         }
     }
 
+    public boolean isBalanced(Node root)
+    {
+        int lh, rh;
+
+        if(root == null)
+        {
+            return true;
+        }
+
+        lh = getHeight(root.left);
+        rh = getHeight(root.right);
+
+        if(Math.abs(lh - rh) <= 1 && isBalanced(root.left) && isBalanced(root.right))
+        {
+            return true;
+        }
+
+        return false;
+    }
+
+
+
     public void printInOrderIterative(Node node)
     {
 
