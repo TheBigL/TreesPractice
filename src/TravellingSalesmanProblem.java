@@ -10,6 +10,11 @@ public class TravellingSalesmanProblem
     private double[][] adjacencyMatrix;
     private DecimalFormat df = new DecimalFormat();
 
+    public Graph(int _n, long seed )
+    {
+
+    }
+
 
 
 }
