@@ -54,11 +54,13 @@ public class Graph
 
     void DFS(int v)
     {
-        boolean[] visited = new boolean[v];
+        boolean[] visited = new boolean[V];
+
+        DFSUtil(v, visited);
 
     }
 
-    void DFSUtil(boolean[] visited, int v)
+    void DFSUtil(int v, boolean[] visited)
     {
         visited[v] = true;
         System.out.print(v + " ");
@@ -70,7 +72,7 @@ public class Graph
             int n = itr.next();
             if(!visited[n])
             {
-                DFSUtil(visited, n);
+                DFSUtil(n, visited);
             }
         }
     }
