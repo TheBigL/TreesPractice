@@ -28,4 +28,11 @@ public class PatternSearching1
         }
 
     }
+
+    public void KPMPatternSearch(String txt, String pat)
+    {
+        int L = txt.length();
+        int M = pat.length();
+
+    }
 }
