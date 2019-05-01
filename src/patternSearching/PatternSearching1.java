@@ -18,10 +18,12 @@ public class PatternSearching1
                     break;
                 }
 
-                if (j == M)
-                {
-                    System.out.println("Pattern found at index " + i);
-                }
+
+            }
+
+            if (j == M)
+            {
+                System.out.println("Pattern found at index " + i);
             }
         }
 
