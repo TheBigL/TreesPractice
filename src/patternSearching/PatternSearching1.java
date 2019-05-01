@@ -36,12 +36,43 @@ public class PatternSearching1
 
         int[] lps = new int[M];
 
+        computeKPMArray(pat, M, lps);
+
+
 
 
     }
 
     public void computeKPMArray(String pat, int M, int[] lps)
     {
+        int len = 0;
+        int i = 1;
+        lps[0] = 0;
+
+        while (i < M)
+        {
+            if (pat.charAt(i) == pat.charAt(len))
+            {
+                len++;
+                lps[i] = len;
+                i++;
+            }
+
+            else
+            {
+                if (len != 0)
+                {
+                    len = lps[len - 1];
+
+                }
+
+                else // if (len == 0)
+                {
+                    lps[i] = len;
+                    i++;
+                }
+            }
+        }
 
 
     }
