@@ -65,6 +65,12 @@ public class TSPGraph
         double distance = Math.sqrt(Math.pow(yDistance, 2) + Math.pow(xDistance, 2));
         return distance;
     }
+
+    private static void swap(Vertex[] src, int a, int b) {
+        Vertex t = src[a];
+        src[a] = src[b];
+        src[b] = t;
+    }
 }
 
 
