@@ -34,5 +34,15 @@ public class PatternSearching1
         int L = txt.length();
         int M = pat.length();
 
+        int[] lps = new int[M];
+
+
+
+    }
+
+    public void computeKPMArray(String pat, int M, int[] lps)
+    {
+
+
     }
 }
