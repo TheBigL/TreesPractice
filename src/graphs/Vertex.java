@@ -27,5 +27,21 @@ public class Vertex
     public int y() {
         return y;
     }
+
+    public void setNumber(int _number) {
+        number = _number;
+    }
+
+    public int getNumber() {
+        return number;
+    }
+
+    public void setDist(double _dist) {
+        dist = _dist;
+    }
+
+    public double getDist() {
+        return dist;
+    }
 }
 
