@@ -2,7 +2,10 @@ package graphs;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Random;
+
+import static java.util.Arrays.sort;
 
 public class TSPGraph
 {
@@ -64,6 +67,18 @@ public class TSPGraph
         // distance = square root of (yDistance^2 + xDistance^2)
         double distance = Math.sqrt(Math.pow(yDistance, 2) + Math.pow(xDistance, 2));
         return distance;
+    }
+
+    public ArrayList<Vertex> sortVertices(ArrayList<Vertex> toSort) {
+
+        Vertex[] vertexArray = new Vertex[toSort.size()];
+        toSort.toArray(vertexArray);
+        Vertex[] emptyArray = new Vertex[toSort.size()];
+
+        sort(vertexArray, 0, vertexArray.length);
+
+        ArrayList<Vertex> toReturn = new ArrayList<Vertex>(Arrays.asList(vertexArray));
+        return toReturn;
     }
 
     private static void swap(Vertex[] src, int a, int b) {
