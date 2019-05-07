@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f46d4c37-5e8a-4417-982b-d6641a2c0a2a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/graphs/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1065">
+              <caret line="74" column="34" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TravellingSalesmanProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/graphs/TSPGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1110">
+              <caret line="79" column="61" selection-start-line="79" selection-start-column="61" selection-end-line="79" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/patternSearching/PatternSearching1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/heaps/MinHeap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/graphs/Vertex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+              <folding>
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+                <element signature="e#707#708#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/singlelyLinked/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/search/BidirectionalSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1065">
+              <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linkedList/DFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linkedList/BFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/Node.java" />
+        <option value="$PROJECT_DIR$/src/linkedList/DFS.java" />
+        <option value="$PROJECT_DIR$/src/singlelyLinked/SinglelyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/singlelyLinked/SinglelyLinkedListNode.java" />
+        <option value="$PROJECT_DIR$/src/graphs/Edge.java" />
+        <option value="$PROJECT_DIR$/src/graphs/Vertix.java" />
+        <option value="$PROJECT_DIR$/src/graphs/GraphNode.java" />
+        <option value="$PROJECT_DIR$/src/search/Node.java" />
+        <option value="$PROJECT_DIR$/src/search/BidirectionalSearch.java" />
+        <option value="$PROJECT_DIR$/src/linkedList/Queue.java" />
+        <option value="$PROJECT_DIR$/src/singlelyLinked/Queue.java" />
+        <option value="$PROJECT_DIR$/src/singlelyLinked/Node.java" />
+        <option value="$PROJECT_DIR$/src/BSTSequences.java" />
+        <option value="$PROJECT_DIR$/src/linkedList/BFS.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/linkedList/Node.java" />
+        <option value="$PROJECT_DIR$/src/graphs/Graph.java" />
+        <option value="$PROJECT_DIR$/src/graphs/Vertex.java" />
+        <option value="$PROJECT_DIR$/src/TravellingSalesmanProblem.java" />
+        <option value="$PROJECT_DIR$/src/graphs/TSPGraph.java" />
+        <option value="$PROJECT_DIR$/src/patternSearching/PatternSearching1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TreesPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TreesPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TreesPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="graphs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TreesPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="heaps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TreesPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TreesPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="patternSearching" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TreesPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TreesPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="singlelyLinked" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TreesPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f46d4c37-5e8a-4417-982b-d6641a2c0a2a" name="Default Changelist" comment="" />
+      <created>1553801971002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553801971002</updated>
+      <workItem from="1553801972903" duration="5888000" />
+      <workItem from="1553872316451" duration="3142000" />
+      <workItem from="1553925861139" duration="87000" />
+      <workItem from="1554139718852" duration="1687000" />
+      <workItem from="1554223631206" duration="5217000" />
+      <workItem from="1554324937631" duration="1076000" />
+      <workItem from="1554356076934" duration="118000" />
+      <workItem from="1554392218809" duration="265000" />
+      <workItem from="1554399935344" duration="1410000" />
+      <workItem from="1554486530312" duration="2994000" />
+      <workItem from="1555003468266" duration="384000" />
+      <workItem from="1555015890924" duration="1853000" />
+      <workItem from="1555095685290" duration="1079000" />
+      <workItem from="1555513293975" duration="201000" />
+      <workItem from="1555524551929" duration="3094000" />
+      <workItem from="1555601283208" duration="205000" />
+      <workItem from="1556664621420" duration="3551000" />
+      <workItem from="1556725151763" duration="2468000" />
+      <workItem from="1556809751790" duration="267000" />
+      <workItem from="1556859726484" duration="158000" />
+      <workItem from="1556994385816" duration="252000" />
+    </task>
+    <task id="LOCAL-00001" summary="Building the Node Class (Constructor and getting started with the Insert class)">
+      <created>1553802212576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553802212576</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Built the Insert method and the Contains method">
+      <created>1553803679461</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553803679461</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Built the Remove method">
+      <created>1553806025673</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553806025673</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Rewriting the Binary Tree Project">
+      <created>1553813867263</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553813867265</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Putting the Object Code inside the main class">
+      <created>1553814558918</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553814558919</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Putting the Object Code inside the main class">
+      <created>1553814900380</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553814900380</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding the Tree Code">
+      <created>1553874440451</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553874440453</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding the Ordering Function for the Node">
+      <created>1553900101462</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553900101462</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adding the Results of the Node and Tree classes">
+      <created>1553901549901</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553901549902</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added the Main classes to be apart of the system">
+      <created>1553925938972</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1553925938972</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Seperated the Node Class">
+      <created>1554186609048</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554186609049</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Made the Node attributes public &amp; created the BFS &amp; DFS classes.">
+      <created>1554225428224</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1554225428224</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fixed the Printing Error.">
+      <created>1554225478132</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1554225478132</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Created the BFS Traversal Method">
+      <created>1554225609725</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1554225609725</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fixed a few simple bugs">
+      <created>1554227506178</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1554227506178</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add Style to the queries of a Node Tree">
+      <created>1554229288032</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1554229288032</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add a SinglelyLinkedList">
+      <created>1554242730252</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1554242730252</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Adds Grpahs to the List of things to Work on.">
+      <created>1554325395327</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1554325395327</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added Graph Class">
+      <created>1554328550438</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1554328550438</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Created Graph Search">
+      <created>1554486802833</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1554486802833</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Created Graph Search Recursion and Iterative">
+      <created>1554527630389</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1554527630390</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fixed Recursion">
+      <created>1554529515929</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1554529515929</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Building the Graph">
+      <created>1555003771343</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1555003771343</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Building a Queue">
+      <created>1555096388226</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1555096388226</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Building a Queue and Refactoring a SinglyLinkedNode">
+      <created>1555096827697</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1555096827697</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Creating a BFS printing method">
+      <created>1555525991251</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1555525991251</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Created the Common Ancestor Method">
+      <created>1555561262334</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1555561262334</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Created the IsBalanced Method">
+      <created>1555561977630</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1555561977630</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Finished the DFS Method">
+      <created>1556665674658</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1556665674659</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Created and Started Building the Travelling Salesman Problem">
+      <created>1556667248404</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1556667248404</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Picking the right variables">
+      <created>1556667459163</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1556667459163</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Creating the Grpah class for the TSP">
+      <created>1556667865544</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1556667865544</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Creating the  verticies and generators for the TSP Graph">
+      <created>1556667947291</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1556667947291</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Expanding the Vertex System">
+      <created>1556668222654</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1556668222654</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Completing the Vertex Class">
+      <created>1556668856361</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1556668856361</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Refactoring and rearranging the Graph object to mold it into a TSP Object">
+      <created>1556678157448</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1556678157448</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Added the Swap method to the TSPGraph Object">
+      <created>1556681743508</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1556681743508</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Added the Swap method to the TSPGraph Object">
+      <created>1556688777845</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1556688777845</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Practice Pattern Searching">
+      <created>1556725389687</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1556725389687</updated>
+    </task>
+    <task id="LOCAL-00040" summary="patternSearch method">
+      <created>1556726443970</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1556726443970</updated>
+    </task>
+    <task id="LOCAL-00041" summary="patternSearch method Correction">
+      <created>1556728237251</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1556728237252</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Started work on the KPM Search Algorithm.">
+      <created>1556728342894</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1556728342894</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Adding a computeKPMArray">
+      <created>1556747915683</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1556747915683</updated>
+    </task>
+    <task id="LOCAL-00044" summary="completed the ComputeKPMArray">
+      <created>1556748998363</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1556748998363</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Complete the Object">
+      <created>1556750897280</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1556750897281</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Created the Heaps package as well as the MinHeap object">
+      <created>1556809823905</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1556809823905</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35396000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33441034" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32982457" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Graph Search Recursion and Iterative" />
+    <MESSAGE value="Fixed Recursion" />
+    <MESSAGE value="Building the Graph" />
+    <MESSAGE value="Building a Queue" />
+    <MESSAGE value="Building a Queue and Refactoring a SinglyLinkedNode" />
+    <MESSAGE value="Creating a BFS printing method" />
+    <MESSAGE value="Created the Common Ancestor Method" />
+    <MESSAGE value="Created the IsBalanced Method" />
+    <MESSAGE value="Finished the DFS Method" />
+    <MESSAGE value="Created and Started Building the Travelling Salesman Problem" />
+    <MESSAGE value="Picking the right variables" />
+    <MESSAGE value="Creating the Grpah class for the TSP" />
+    <MESSAGE value="Creating the  verticies and generators for the TSP Graph" />
+    <MESSAGE value="Expanding the Vertex System" />
+    <MESSAGE value="Completing the Vertex Class" />
+    <MESSAGE value="Refactoring and rearranging the Graph object to mold it into a TSP Object" />
+    <MESSAGE value="Added the Swap method to the TSPGraph Object" />
+    <MESSAGE value="Practice Pattern Searching" />
+    <MESSAGE value="patternSearch method" />
+    <MESSAGE value="patternSearch method Correction" />
+    <MESSAGE value="Started work on the KPM Search Algorithm." />
+    <MESSAGE value="Adding a computeKPMArray" />
+    <MESSAGE value="completed the ComputeKPMArray" />
+    <MESSAGE value="Complete the Object" />
+    <MESSAGE value="Created the Heaps package as well as the MinHeap object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created the Heaps package as well as the MinHeap object" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/graphs/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/search/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/Queue.java" />
+    <entry file="file://$PROJECT_DIR$/src/singlelyLinked/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BSTSequences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="122" column="21" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphs/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="74" column="34" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TravellingSalesmanProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphs/TSPGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="79" column="61" selection-start-line="79" selection-start-column="61" selection-end-line="79" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patternSearching/PatternSearching1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphs/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singlelyLinked/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/search/BidirectionalSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/heaps/MinHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
